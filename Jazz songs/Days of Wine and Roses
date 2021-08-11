@@ -1,0 +1,30 @@
+X:1
+T:The days of wine and roses
+M:4/4
+L:1/4
+C:Henry Mancini & Johnny Mercer
+K:F
+V:chords
+x || "Fmaj7"x2 x2 | "Eb7"x2 x2 | "D7sus"x2 x2 | "D7"x2 x2 |
+"Gm7"x2 x2 | x2 x2 | "Bbm6"x2 x2 | x2 x2 ||
+V:melody
+C||A4-|AGAc|d2c2-|c2cA|
+ADD2-|D2cA|A_DD2-|D2AG||
+V:chords
+"Am7"x2 x2 | "Dm7"x2 x2 | "Gm7"x2 x2 | "-/F"x2 x2 |
+"Em7b5"x2 "A7"x2 | "Dm7"x2 "G7"x2 | "Gm7"x2 x2 | "C7"x2 x2 ||
+V:melody
+GCD>E|GFAd|c3B|cBAG|
+A3E|GFE>D|G4-|G3C||
+V:chords
+"Fmaj7"x2 x2 | "Eb7"x2 x2 | "D7sus"x2 x2 | "D7"x2 x2 |
+"Gm7"x2 x2 | x2 x2 | "Bbm6"x2 x2 | x2 x2 ||
+V:melody
+A4-|AGAc|d2c2-|c2cA|
+ADD2-|D2cA|A_DD2-|D2AG||
+V:chords
+"Am7"x2 x2 | "Dm7"x2 "-/C"x2 | "Bm7b5"x2 x2 | "E7"x2 x2 |
+"Am7"x2 "Dm7"x2 | "Gm7"x2 "C7"x2 | "F6"x2 x2 | "T.A."x2 x2 ||
+V:melody
+GCDE|FGAc|e4-|e3d|
+cAGF|AA2D|F4-|F2z2|]
