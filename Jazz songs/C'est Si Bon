@@ -1,0 +1,19 @@
+X:1
+T:C'est Si Bon 
+K:Cmaj
+M:4/4
+M:4/4
+M:4/4
+L:1/8
+M:4/4
+z2G2 ^F2|"Dm7"=F2z2-"(Dm7)"z2-"(G7)"z2|"G7" z2 (GA B>A G2)|"C" E2z2 "(G7)"z2"(Am7)"z2|z2 (GA B>A "A7" G2)|
+"Dm7" [FD]2z2-"(Dm7)"z2"(G7)"z2|"G7" z(G A>B) e2 B2 |"C"A3E BcEF|"A7" G2 zE "Em7"GG "Ebm7"^FF|
+"Dm7"=F8|"G7" z G A>B A2 G2|"C" E8|"Am7"z2 GA B>A "A7" G2|
+"Dm7" F8-|"G7" zG A>B e2 d2 |"C"c8-|c2 "Bbm7"z2 c2 "Eb7"_d2|
+||"Ab" _e4 c2 _B2|"Bbm7"_A4 "Eb7"G2 F2|"Ab" F4 _E4-|_E2 z2 c2 ^c2|
+"Am7" d4 =c2 B2|"D7"A4 B2 c2|"Dm7" [cA=Fe]6[c_e]2|"G7"d2 z2 G2 ^F2||
+"Dm7"=F2z2-"(Dm7)"z2-"(G7)"z2|"G7" z2 GA B>A G2|"C" E2z2 "(G7)"z2"(Am7)"z2|z2 GA B>A "A7" G2|
+"Dm7"=F8-|"G7" z GBd g2 g2|"Em7b5" [G_Bg]8|"A7"[ge^cA]2 z2 [ged_B]2 [_g_e_dB]2|
+"Dm7"[fd=cA]8|"Fm6"(3z2e2d2 (3f2e2d2|"Cmaj7"[ecA]8|"Am7" z2ed cB A2|
+"D7b5" _A4 z=Ac_e |"Dm7"dAGA "G7b5"[e^cF]2[e^cF]2|"C"c4- "Cdim"c4-|"C"c2z2"(A7)"z4|]
+
