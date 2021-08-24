@@ -1,6 +1,10 @@
-X:1T:Sporting Paddy%%subtitlespaceT:(Old Wheels of the World)%%composerspaceC: from the playing of Sally Sloane%%musicspace
-K:Amaj
+X:1
+T:Sporting Paddy
+T:Old Wheels of the World
+N: from the fiddle playing of Sally Sloane
+Z:Ian Hayden 2017
+L:1/8
 M:4/4
-|:"Em"B2 G<E B2 G<E|"D"D2 DC B,CD2|"Em"E2EF =GFGA|Beed BAA2:|
-|:"Em"Be (ed) Be (ed)|"D"Bd (dc) Bd (dc)|"Em"e2(dB) "D"A2GA|"Em" Beed BAA2 :|
-T:transposed to A mix:K:DmajM:4/4|:e2 c<A e2 c<A|G2 GF EFG2|A2AB =cBcd|eaag edd2:||:ea (ag) ea (ag)|eg (gf) eg (gf)|a2(ge) d2cd| eaag edd2 :|T: Transposed to G mix:K:CmajM:4/4|:d2 BG d2 BG|F2 FE DEF2|G2GA _BGAc|dggf dcc2:||:dg (gf) dg (fg)|df ~f2 df ~f2|g2fd c2Bc| dggf dcc2 :|
+K:Dmaj
+|:e2 c<A e2 c<A|G2 GF EFG2|A2AB =cBcd|eaag edd2:|
+|:ea (ag) ea (ag)|eg (gf) eg (gf)|a2(ge) d2cd| eaag edd2 :|
