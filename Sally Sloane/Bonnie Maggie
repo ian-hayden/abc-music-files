@@ -1,5 +1,16 @@
-X:1T:Bonnie Maggie
-%%subtitlespace
+X:1
+T:Bonnie Maggie
 T:(Highland Laddie)
-%%composerspaceC:from the playing of Sally Sloane
-%%musicspaceL:1/8M:2/4K:C"intro:"[|C>D EG|ED E2|ED DC|ED DC||C>D EG|ED E2|CA, A,G,|CA, A,G,|]"tune:"|:c>d eg|ed e2|ed dc|ed dc||c>d eg|ed e2|cA AG|1cA AG:|2c4|]|ga/g/f2|ge/c/ e2|ed dc | ed dc||g2 f2|ge/c/ e2|cA AG|c4|]
+N:from the playing of Sally Sloane
+Z:Ian Hayden, 2017
+L:1/8
+M:2/4
+K:C
+"intro:"
+[|C>D EG|ED E2|ED DC|ED DC|
+|C>D EG|ED E2|CA, A,G,|CA, A,G,|]
+"tune:"
+|:c>d eg|ed e2|ed dc|ed dc|
+|c>d eg|ed e2|cA AG|1cA AG:|2c4|]
+|ga/g/f2|ge/c/ e2|ed dc | ed dc|
+|g2 f2|ge/c/ e2|cA AG|c4|]
