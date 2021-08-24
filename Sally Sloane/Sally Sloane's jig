@@ -1,7 +1,9 @@
-X:1T: Sally Sloane's jig
-%%subtitlespace
-%%composerspaceC: from Sally Sloane's lilting %%musicspaceK:Gmajd|:edB g2d|edB efg|edB g2d|eaa a2d||edB g2d|edB efg|eaa ged|BAA A2d:||:eaa egg|eaa ged|eaa egg|age d3||eaa egg|eaa ged|ged cde|dBA A2d:|T: transposed to lower keyK:Cmaj
-G|:AGE c2G|AGE ABc|AGE c2G|Add d2G|
-|AGE c2G|AGE ABc|Add cAG|EDD D2G:|
-|:Add Acc|Add cAG|Add Acc|dcA G3|
-|Add Acc|Add cAG|cAG FGA|GED D2G:|
+X:1
+T: Sally Sloane's jig
+N: from Sally Sloane's lilting 
+Z:Ian Hayden 2017
+K:Gmaj
+d|:edB g2d|edB efg|edB g2d|eaa a2d|
+|edB g2d|edB efg|eaa ged|BAA A2d:|
+|:eaa egg|eaa ged|eaa egg|age d3|
+|eaa egg|eaa ged|ged cde|dBA A2d:|
