@@ -1,8 +1,7 @@
 X:1
-T:Un-named polka  in D
-%%subtitlespace
-C:from Sally's meldoeon playing
-%%musicspace
+T:Un-named polka  
+N:from Sally's meldoeon playing
+Z:Ian Hayden 2017
 M:2/4
 L:1/8
 K:Dmaj
@@ -10,4 +9,3 @@ K:Dmaj
 "D"FA dc/2d/2|ed "(G)"B2|"A"{c}BA GE|"D"D3:|
 |:"(D)"A/2A/2|"A"AG/2G/2 GB/2B/2|"D"BA/2A/2 A>F|"A"AG E>G|"D"F2-FA/2A/2|
 "A"AG/2G/2 GB/2B/2|"D"BA/2A/2 A>F|A/2d/2c/2B/2 "A"A/2G/2F/2E/2|"D"D3:|
-X:1T:Un-named polka in CC:from Sally's meldoeon playing%%musicspaceM:2/4L:1/8K:C|:G/F/|"C"EG c2|dc "(F)"A2|"G"{B}AG FE|D3 G/F/|"C"EG cB/c/|dc "(F)"A2|"G"{B}AG FD|"C"C3:||:"(C)"G/G/|"G"GF/F/ FA/A/|"C"AG/G/ G>E|"G"GF D>F|"C"E2-EG/G/|"G"GF/F/ FA/A/|"C"AG/G/ G>E|G/c/B/A/ "G"G/F/E/D/|"C"C3:|
