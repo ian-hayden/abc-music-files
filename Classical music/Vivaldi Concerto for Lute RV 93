@@ -1,0 +1,105 @@
+%%topmargin 3
+%%botmargin 3
+%%barnumbers 3
+%%%%barsperstaff 4
+%%staffsep 70
+%%scale 0.7
+%%footer -$P
+X:1
+T:Concerto for Lute, RV 93
+C:Antonio Vivaldi  
+Z:arr. Ian Hayden 2020
+L:1/8
+M:C
+K:D
+P:Allegro
+V:1 scale=1.2
+|:(f/e/d) (f/e/d) aAAA|(f/e/d) (f/e/d) aAAA|\
+(a/g/f) (a/g/f) e2z2|
+(a/g/f) (a/g/f) (d/c/B) (d/c/B)|\
+(g/f/e) (g/f/e) (c/B/A) (c/B/A)|\
+f2z=f fe ef/g/|=fddf feef/g/|
+=fddd _ee=ee|=ff^ff gg^gg|az az az z=g|\
+f/g/a/f/ e/f/g/e/ f/g/a/f/ e/f/g/e/|
+d2z d (f/e/d) (a/g/f)|eAAA (e/d/c) (g/f/e)|\
+fdda (b/a/g) (b/a/g)|e/c/c/c/ e/c/c/c/ (a/g/f) (a/g/f)|
+d/B/B/B/ d/B/B/B/ (g/f/e) (g/f/e)|(f/e/d) (f/e/d) (^g/f/e) (^g/f/e)|\
+ac/d/ e/d/e/d/ c/d/c/d/ e/d/e/d/|ce a^g/f/ eefe/d/|
+cea^g/f/ eefe/d/|cB/A/ ed/c/ acdB|cB/A/ ed/c/ acdB|Aab^g a4:|
+|:(c/B/A) (c/B/A) eEEE|(c/B/A) (c/B/A) eEEE|(c/B/A) (c/B/A)^G2z2|aeAg fdDf|
+bfBa ^geEg|c'^gcb [acf]4|[^gc]4 [acf]4|[^gc]4 [acf]2z2|
+[^acf]4[bdf]4|[^acf]4[bdf]4|[^acf]4[bdf]2z2|ba/g/ fe dbdb |
+ebfb gbdb|ebf^ab2z2|ba/g/ fe dBDB|EBFB GBDB|
+EBF^AB2zf|(f/e/d) (f/e/d) aAAA|(f/e/d) (f/e/d) (a/g/f) (a/g/f)|e2z=f feef/g/|
+=fddf feef/g/|=fdda _bbba/g/|aaag/=f/ gggf/e/|=ff^ff gg^gg|
+a/a/a/a/ a/a/a/a/ g/g/g/g/ g/g/g/g/|fe/d/ ec f/g/a/f/ e/f/g/e/|\
+f/g/a/f/ e/f/g/e/ f/g/a/f/ e/f/g/e/|fdec Hd4:|
+V:2 scale=1.2
+|:(a/g/f) (a/g/f) eAAA|(a/g/f) (a/g/f) eAAA|(f/e/d) (f/e/d) c2z2|
+(a/g/f) (a/g/f) (d/c/B) (d/c/B)|(g/f/e) (g/f/e) (c/B/A) (c/B/A)|\
+"D"f2z"Dm"=f fe "A"ef/g/|"Dm"=fddf f"A"eef/g/|
+"Dm"=fddd "Cm"_ee"C7"=ee|"Dm"=ff"D7"^ff "Gm"gg"E"^gg|"A"az az az z=g|\
+"D"d/e/f/d/ "A"c/d/e/c/ "D"d/e/f/d/ "A"c/d/e/c/|
+"D"d2z2z4|"A"z8|"D"z4"G"z4|"A"z4"D"z4|
+"G"z4"A"z4|"D"z4"E"z4|"A"aA/B/ c/B/c/B/ A/B/A/B/ c/B/c/B/|"A"[Ac]2z2z4|
+"A"z8|"A"z4z2"E"z2|"A"z4z2"E"z2|"A"zcdB A4:|
+|:"A"(e/d/c) (e/d/c) "E"BEEE|"A"(e/d/c) (e/d/c) "E"BEEE|"A"(e/d/c) (e/d/c) "E"B2z2|"A"z4"D"z4|
+"B"z4"E"z4|"C#"z4"F#m"[acF]4|"C#"[^gcF]4-"F#m"[acF]4-|"C#"[^gcF]4"F#m"cf/^g/ af|"F#"[cF]4-"Bm"[dF]4|
+"F#"[cF]4-"Bm"[dF]4-|"F#"[cF]4z"Bm"d/e/fd|"Bm"z8|"Em"z8|z2"F#"z2"Bm"zd/e/fd|"Bm"z8|
+z8|z4z2za|"D"(a/g/f) (a/g/f) "A"eAAA|(a/g/f) (a/g/f) (f/e/d) (f/e/d)|
+"A"[ec]2z2"Dm"z4|z8|"Dm"z4"Gm"z2"C"z2|"F"z2"Gm"z2"Em"z2"A"z2|"Dm"z2"D7"z2"Gm"z2"E"z2|
+"A"z8|"D"z2"A"z2d/e/f/d/ c/d/e/c/|"D"d/e/f/d/ "A"c/d/e/c/ "D"d/e/f/d/ "A"c/d/e/c/|"D"df"A"gc "D"Hd4:|
+V:3 clef=bass scale=1.2
+|:D,D,D,D, C,C,C,C,|D,D,D,D, C,C,C,C,|D,D,D,/E,/F,/G,/ A,2z2|
+F,D,F,D, B,G,B,G,|E,C,E,C, A,A,,A,A,,|D,2zD, D,A,,A,,A,,|D,D,D,D, D,A,,A,,A,,|
+D,D,D,D, =C,C,_B,,B,,|A,,A,, D,=C, _B,,B,, E,D,|C,D,C,B,, A,,B,,C,A,,|D,D,  A,,A,, D,D, A,,A,,|
+D,2zD, D,E,F,D,|A,,B,,C,B,, A,,B,,C,A,,|D,E,F,D, G,F,G,G,,|CB,CC, F,E,F,F,,|
+B,A,B,B,, E,D,E,E,,|D,C,D,E,, E,F,E,D,|A,,2 A,,2 A,,2 A,,2|A,,2z2A,,2z2|
+A,,2z2A,,2z2|A,,2A,,2 A,,A,D,E,|A,,2A,,2A,,A,D,E,|A,,A,D,E, A,,4:|
+|:A,,A,,A,,A,, ^G,,G,,G,,G,,|A,,A,,A,,A,, ^G,,G,,G,,G,,|A,,A,, A,,/B,,/C,/D,/ E,F,E,D,|C,3A,,D,2D,,2|
+^D,3B,,E,2E,,2|^E,3C, F,,E,/^G,/ A,F,|zC,/^D,/^E,C, zF,/^G,/A,F,|zC,/^D,/^E,C,F,2z2|\
+zF,/^G,/A,F, zB,,/C,/D,B,,|
+zF,/^G,/^A,F, zB,,/C,/D,B,,|zF,/^G,/^A,F,B,,2z2|B,,2^A,,2B,,2B,,2|C,2D,2E,2B,,2|\
+C,2F,,2B,,2z2|B,,2^A,,2B,,2B,,2|
+C,2D,2E,2B,,2|C,2F,,2B,,2zD,|D,D,D,D, A,,A,,A,,A,,|D,D,D,D, D,D, D,/E,/F,/G,/|
+A,G,=F,D,A,,2A,,2|D,2D,2A,,2A,,2|D,2D,2G,2=C,2|=F,2_B,,2E,2A,,2|D,D,=C,C, _B,,B,,E,D,|
+C,=B,,C,A,, C,B,,C,A,,|D,F,G,A, D,D,A,,A,,|D,D,A,,A,, D,D,A,,A,,|D,DG,A, HD,4:|
+X:2
+T:Largo
+C:Antonio Vivaldi
+Z:arr. Ian Hayden 2020
+L:1/8
+M:C
+K:D
+Q:1/4=60
+V:1 scale=1.2
+|:d>fg>a d>fg>a|e>cd>e A>ba>g|f>ad>f a>fe>d|e2A2z2a2|
+a>fe>d a>fe>d|babb babb|befe befe|agaa agaa|
+aded aded|^gaba gfed|ccBA ecBA|acBA ecBA|
+abab abab|a2 ^gf edcB|ceac B2 ^g2|a4-a4:|
+|:g>eB>e g>bg>e|^A>cF>c e>gf>e|dcB2z2f2|f/B/c/B/ c/B/c/B/ f/B/c/B/ c/B/c/B/|
+b/f/g/f/ g/f/g/f/ b/f/g/f/ g/f/g/f/|bfed c2>B2|B4z2d2|d>fg>a d>fa>f|
+ecde Agbg|fed2z2a2|abag fed=c|BAG2 z2b2|
+bc'ba gfed|cBA2 zceg|f/A/B/A/ B/A/B/A/ f/A/B/A/ B/A/B/A/|\
+e/A/B/A/ B/A/B/A/ g/A/B/A/ B/A/B/A/|
+f>ga>d Te3d|Hd8:|
+V:2 scale=1.2
+|:"D"[fd]4-[fd]4|"A"[ec]4-[ec]4|"D"[df]4-[df]4|"A"[ec]4-[ec]4|
+"D"[df]4[fa]4|"G"[fb]4-[fb]4|"C#m"[eb]4-[eb]4|"F#m"[ea]4-[ea]4|
+"Bm7"[da]4-[da]4|"E7"[d^g]4-[d^g]4|"A"[ce]4-[ce]4|"A"[ce]4-[ce]4|
+"A"[ce]4-[ce]4|[ce]4 z4|[ca]4[B^g]4|"A"[ca]4-[ca]4:|
+|:"Em"[Be]4-[Be]4|"F#"[^Ac]4-[^Ac]4|"Bm"[Fd]4-[Fd]4|"Bm"[df]4-[df]4|
+"Bm"[df]4-[fd]4-|"Bm"[df]2[Bd]2"F#"[^Ac]4|"Bm"[Fd]4-[Fd]4|"D"[df]4-[df]4|
+"A"[ce]4-[ce]4|"D"[Af]4-[Af]4|"D"[Af]4-[Af]4|"G"[Bd]4-[Bd]4|
+"G"[Bd]4-[Bd]2[gB]2|"A"[ce]4-[ce]4|"D"[df]4-[df]4|"A"[ce]4-[ce]4|
+"D"[df]4 "A"[ce]4|"D"[df]8:|
+V:3 clef=bass scale=1.2
+|:D,2D,2D,2D,2|A,2A,,2A,,2A,,2|D,2D,2D,2D,2|A,2A,,2A,,2A,,2|
+D,2D,2D,2D,2|G,2,G,2G,2,G,2|C,2C,2C,2C,2|F,2F,2F,2F,2|
+B,,2B,,2B,,2B,,2|E,2E,2E,2E,2|A,,2A,,2A,,2A,,2|A,,2A,,2A,,2A,,2|
+A,,2A,,2A,,2A,,2|A,,4 z4|A,,2A,,2E,,2E,,2|A,,4-A,,4:|
+|:E,2E,2E,2E,2|F,2F,2F,2F,2|B,,2B,,2B,,2B,,2|B,,2B,,2 B,,2B,,2|
+B,,2B,,2 B,,2B,,2|B,,2B,,2F,2F,,2|B,,2B,,2 B,,2B,,2|D,2D,2D,2D,2|
+A,,2A,,2A,,2A,,2|D,2D,2D,2D,2|D,2D,2D,2D,2|G,,2G,,2G,,2G,,2|
+G,,2G,,2G,,2G,,2|A,,2A,,2A,,2A,,2|A,,2A,,2A,,2A,,2| A,,2A,,2A,,2A,,2| 
+D,2D,2A,,2A,,2|HD,8:|
