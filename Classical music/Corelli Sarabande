@@ -1,0 +1,21 @@
+%%staffsep 70
+X:1
+T:Sarabande in Dm (Op. 5, no.7)
+%%composerspace
+C:Archangelo Corelli
+%%musicspace
+L:1/8
+M:3/4
+K:F
+P:Largo
+V:1 name=recorder
+a2f2d2|b4a2|g2f3g|(e4d2)|a2f2d2|(e2a2)A2|d3 ^c (de)|^c6:|
+|:a2=c3c|(c4=B2)|g2 _B3B|(B4A2)|f2_e2g2|^c3cd2|(de) (e2-ed)|d6:|
+V:2 name=guitar
+!arpeggio!"Dm"[dAF]6|"Gm"(d2^c2)d2&B4A2|"A7"e2d4&A4-"Gm"AB|"A"^c4d2&(A2G2F2)|"Dm"[dF]6&A2B4-|\
+"C"[BG]2 [AE]4-&e6|"Dm"[AF]2[DG]4&d6|"A"[AE^C]6:|
+|:!arpeggio!"D7"[A=CD]6|!arpeggio!"G"[GD]6&C4=B,2|!arpeggio!"C7"[c_BE]6|"F"[cF]6&(B4A2)|d2"Eb"_e3d&A2B4|\
+"A"[^cA=E]3[AE^C][AD]2|"Gm"[B]2"A"[AE]4&(FE)(D2^C2)|!arpeggio!"Dm"[AFD]6:| 
+V:3 clef=bass name=cello
+D2D,4|G,4F,2|^C,2D,2G,,2|A,,4D,2|D2D,4|C2C,4|B,2B,,4|a,,,6:|
+|:^F,2D,2F,2|G,2G,,4|E,2C,2E,2|F,2F,,4|F,2G,4|A,3G,F,2|G,2A,2A,,2|D,6:|
