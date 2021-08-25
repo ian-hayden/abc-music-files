@@ -1,0 +1,34 @@
+X:1
+T:Adagio
+C:Corelli, arr. for trio
+Z:arr. Ian Hayden 2021
+L:1/8
+M:3/4
+K:F
+V:1 name=melody
+z6|(F2B3_A|G2_E2)z2|d2g3f|
+_e2c2z2|a2d'3c'|(b2_e2) e2|(_e2d2)d2|gBPc3d|
+d2a4-|a2g4-|g2f4|(_e2^c2)Md2-|de e4|
+d2f4-|f3 g_ed|_ef d4|c2_e4-|
+e3 fdc|d_e c4|B2 b4-|bg _a4|
+_a^f g4-|g2^f2c2-|c2 =Bc d2-|d2G2_e2|
+(^F2D2)d2|_e2^f4|g6-|g2 g3^f|g2 d4-|
+d2G2_e2|^F4d2|(cB) A4|G2Hd2Hc2|Hd6|]
+V:2 name=guitar
+z6|[FB,]6|B,4z2|[dGG,]6|
+G4z2|[dAD]4c2|B6&D2_E4|[AE]2D2[AD]2|G6&D2 CB,A,2|
+A4x2&^F2A2d2-|d2d4&A2G4|[^cG]2[fdF]4|[B_E]2[G=E]2[FD]2|[BE]2d2^c2|
+[AF]2 [dA]4|[dG]4G2|_A2 [cG]2-=B2|_E2 [cG]4|
+[cF]4 F2|[BG]2 [BF]2A2|D2[BF]2G2|[BD]2 [_A_E]2F2|
+_Az[DG]2 _E2|G2[DA]4|D4[G=BD]2|[GC]4C2&D2x2G2|
+A,4[GD]2|[_EG]2^F4&x2d2c2|[BG]2d2e2|[GB]2[_e=A]3[cd^F]|[G,GBd]2z2G2|
+D2(CB,) [_EA,]2|[A,D]4 [BDG,]2|(_ED) [CG]2 [^F]2|[BD]2[[DG]2[G_EC]2|[A^FD]6|]
+V:3: name=cello
+_E,2G,2E,2|D,2B,,2D,2|_E,2G,2E,2|=B,,2G,,2B,,2|
+C,2_E,2C,2|^F,2D,2F,2|G,4G,2|^F,4=F,2|_E,6|
+D,4C,2|B,,4G,,2|A,,4D,2|G,2A,2B,2|G,2A,2A,,2|
+D,2 D2 C2|=B,2 G,2 C2|F,2 G,2 G,,2|C,2C2B,2|
+A,2F,2B,2|_E,2F,2F,,2|B,,2(D,2=E,2|F,2)C,2D,2|
+_E,2 B,,2C,2|D,6|G,4F,2|_E,4C,2|
+D,4_B,,,2|C,,4D,,2|_E,,2B,,,2C,,2|D,,2C,,2D,,2|G,,4B,,2|
+_E,4C,2-|C,2D,2B,,2|C,2D,2D,,2|G,,2F,,2_E,,2|D,,6|]
