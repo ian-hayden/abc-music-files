@@ -1,11 +1,11 @@
 X:1
 T: Kitty's Rambles
 N: from the playing of Sally Sloane
-Z:Ian Hayden 2017
+Z:Ian Hayden 2023
 M:6/8
 L:1/8
-K:G
-G,|:B,A,G, B,2D|GAB c2d|cAG FED|CDC B,A,G,|
-|B,A,G, B,2D|GAB c2d|cAG FED|1DEF G2G,:|2DEF G2D|]
-|:GBd GBd|GBd dcB|Acc Acc|Acc cBA|
-|BAB cBc|ded cBA|BGE D2E|DEF G3:|
+K:Dmaj
+D|:FED F2A|def g2a|ged cBA|GAG FED|
+|FED F2A|def g2a|ged cBA|1ABc d2D:|2ABc d2A|]
+|:dfa dfa|dfa agf|cgg cgg|cgg gfe|
+|fef gfg|aba gef|ecB A2B|ABc d3:|
