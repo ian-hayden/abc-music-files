@@ -1,0 +1,23 @@
+X:1
+T:Stella By Starlight (with bass line)
+L:1/4
+M:4/4
+K:Bb 
+V:1 scale=1.2
+B||A4-|AGAB|F4-|F2F2|
+G4-|GFFG|B,4-|B,2C2|
+EDCB,|D3=E|G>FF2-|F3G|
+BAGF|G2-(3GAB|d>cc2-|c2d2||
+e4-|eeed|f4-|fe(3dcB|
+d2d2-|dcBA|c4-|c2B2|
+A4-|AGAB|F4-|FFFE|
+_G4-|G_GGF|F4-|F4|]
+V:2 clef=bass scale=1.2
+z||"Em7b5"=E,D,C,B,,|"A7"A,, ^C,E,G,|"Cm7"C,G,E,C,|"F7"F,,A,,C,F,|
+"Fm7"_A,G,F,E,|"Bb7"D,_CB,_A,|"Ebma7"G,B,E,D,|"Ab7"C,E,_A,,_G,,|
+"Bbma7"F,,A,,B,,D,|"Eo7"=E,G, "A7"A,G,|"Dm7"F,A,F,D,|"Bbm7"_D,F, "Eb7"E,G,|
+"Fma7"F,CA,F,|"Em7b5"B,=E, "A7"A,A,,|"Ao7"C,D,E,G,|"D7b9"^F,A,D,C,||
+"G7#5"=B,,E,G,B,|=B,DEG,|"Cm7"CDEF|G_GF=E|
+"Ab7"EDCB,|_A,_G,F,E,|"Bbma7"D,F,A,C|B,A,G,F,|
+"Em7b5"=E,D,B,,G,,|"A7b9"A,,B,A,G,|"Dm7b5"F,E,D,C,|"G7b9"=B,,_A,G,F,|
+"Cm7b5"E,_D,C,B,,|"F7b9"A,,_G,F,E,|"Bbma7"D,F,B,A,|B,F,D,F,|]
