@@ -1,0 +1,23 @@
+X:2
+T:Embraceable You  - with bass line (Eb)
+L:1/4
+M:4/4
+K:Ebmaj
+V:1 scale=1.2 
+zCDE|zCDE|F>B, B,B,-|B,4|
+zFGA|zFGA|B>E EE-|E4|
+GEFE|GEFE|G>D D D-|D4|
+FDED|EFG=A|B>B,B,B,-|B,4|]
+zCDE|zCDE|F>B, B,B,-|B,4|
+zFGA|zFGA|B>E EE-|E4|]
+zBAG|AGFG|E E/2E/2 E/2E/2 E|=A3z|
+zGAB|=Bc2D|E4|z4|]
+V:2 clef=bass scale=1.2 
+"Eb6/G"G,2zz|"Gbo"_G,2zz|"Fm7"F,2"Dbm"_D,2|"Bb7"D,2"(Bb7+)"(3A,G,^F,|
+"Fm7"F,2z"/Eb"E,|"Fm7/D"D,2"Bb7"B,B,|"Eb6"E,2"Fm7"F,2|"Gbo"_G,2"G+7b9"=G,2|
+"Cm7"C,2CB,|"Cm6"=A,z"Am7"C,<_A,|"Gm7"G,2"/Gb"_G,2|"/F"F,2"C9"=E,D,|
+"Bbma7"B,,z"Bo"=B,,z|"Cm7"E,D,"Db7"_D,"Cb7"C,|"Fm7"B,,2"Bb7"B,D,|"Dbm7"_D,z"Bb7+"B,=D,|]
+"Eb6/G"E,zE,z|"Gbo"_G,zG,z|"Fm7"F,z"Dbm7"_D,z|"Bb7"=D,2z"Bb7+"^F,|
+"Fm7"F,2zE,|"Db7"_D,2"Bbm9"B,_D|"Eb6"E2"Cm7"Cz|"Bbm7"B,B,"Eb7"EE,|]
+"Abma7"A,zA,z|"Dm7b5"D,z"G7b9"G,z|"Cm7"C,C_CB,|"Am7b5"=A,z=A,,"/Ab"_A,,|
+"Gm7"B,,"Eb"z"Cm9"C,B,,|"Fm7b5"_A,,z"Bb7b9"B,,B,|"Eb6"E,E,"Cm7"B,,B,,|"Fm7"F,2"Bb7/F"F,,2|]
